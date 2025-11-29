@@ -5,6 +5,7 @@ A full-stack web application that analyzes product reviews using an AI LLM (Groq
 Built as part of the Cimba.ai SDE Internship Assignment.
 
 🚀 Tech Stack
+
 Frontend
 
 React.js
