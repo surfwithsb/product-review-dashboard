@@ -1,0 +1,11 @@
+# Node
+frontend/node_modules/
+
+# Java
+backend/target/
+
+# Logs
+*.log
+
+# Environment keys
+*.env
